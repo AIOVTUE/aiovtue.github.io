@@ -1,0 +1,1 @@
+chrome-extension://hpekbddiphlmlfjebppjhemobaopekmp/lib/pagenote/5.5.3/pagenote.js
